@@ -1,0 +1,1 @@
+Another file to practice adding files to Git.
